@@ -5,6 +5,8 @@ List of tools for hardened operating system security
 ## Android
 - [GrapheneOS](https://grapheneos.org/)
 - [TrackerControl](https://trackercontrol.org/)
+- [Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+- [Bromite](https://www.bromite.org/)
 
 ## Windows
 - [HardenTools](https://github.com/securitywithoutborders/hardentools)
@@ -13,6 +15,7 @@ List of tools for hardened operating system security
 - Bitlocker or better: VeraCrypt
 - [NetLimimter](https://www.netlimiter.com/)
 - [Local Security Policy](https://www.bleepingcomputer.com/tutorials/create-an-application-whitelist-policy-in-windows/)
+- Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 
 ## MacOS
 - [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
@@ -29,10 +32,11 @@ List of tools for hardened operating system security
 - [privacy.sexy](https://privacy.sexy/)
 - [Lynsis](https://cisofy.com/lynis/)
 - [Santa](https://santa.dev)
-
+- Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 
 
 ## GNU/LINUX
 - [Lynsis](https://cisofy.com/lynis/)
 - LUKS
 - [OpenSnitch](https://github.com/evilsocket/opensnitch)
+- Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
