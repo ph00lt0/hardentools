@@ -13,7 +13,7 @@ List of tools for hardened operating system security
 - [privacy.sexy](https://privacy.sexy/)
 - [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
 - Bitlocker or better: VeraCrypt
-- [NetLimimter](https://www.netlimiter.com/)
+- [NetLimiter](https://www.netlimiter.com/)
 - [Local Security Policy](https://www.bleepingcomputer.com/tutorials/create-an-application-whitelist-policy-in-windows/)
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 
