@@ -3,7 +3,7 @@ List of tools for hardened operating system security
 
 
 ## Android
-- [GrapheneOS](https://grapheneos.org/) or [DivestOS](divestos.org/) for non Pixel phones
+- [GrapheneOS](https://grapheneos.org/) or [DivestOS](https://divestos.org/) for non Pixel phones
 - [TrackerControl](https://trackercontrol.org/)
 - [Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - [Bromite](https://www.bromite.org/)
