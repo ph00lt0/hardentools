@@ -34,6 +34,7 @@ List of tools for hardened operating system security
 - [Santa](https://santa.dev)
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 - [Spoof mac address](https://github.com/sunknudsen/privacy-guides/blob/master/how-to-spoof-mac-address-and-hostname-automatically-at-boot-on-macos/README.md)
+- [Bluesnooze](https://github.com/odlp/bluesnooze/)
 
 
 ## GNU/LINUX
