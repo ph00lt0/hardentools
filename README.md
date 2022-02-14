@@ -8,6 +8,7 @@ List of tools for hardened operating system security
 - [Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - [Bromite](https://www.bromite.org/)
 
+
 ## Windows
 - [HardenTools](https://github.com/securitywithoutborders/hardentools)
 - [privacy.sexy](https://privacy.sexy/)
@@ -16,6 +17,8 @@ List of tools for hardened operating system security
 - [NetLimiter](https://www.netlimiter.com/)
 - [Local Security Policy](https://www.bleepingcomputer.com/tutorials/create-an-application-whitelist-policy-in-windows/)
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
+- Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
+
 
 ## MacOS
 - [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
@@ -35,6 +38,7 @@ List of tools for hardened operating system security
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 - [Spoof mac address](https://github.com/sunknudsen/privacy-guides/blob/master/how-to-spoof-mac-address-and-hostname-automatically-at-boot-on-macos/README.md)
 - [Bluesnooze](https://github.com/odlp/bluesnooze/)
+- Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
 
 
 ## GNU/LINUX
@@ -42,3 +46,4 @@ List of tools for hardened operating system security
 - LUKS
 - [OpenSnitch](https://github.com/evilsocket/opensnitch)
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
+- Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
