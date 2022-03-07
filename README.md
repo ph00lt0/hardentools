@@ -7,6 +7,8 @@ List of tools for hardened operating system security
 - [TrackerControl](https://trackercontrol.org/)
 - [Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - [Bromite](https://www.bromite.org/)
+- [Secure PDF viewer](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
+- [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
 
 
 ## Windows
