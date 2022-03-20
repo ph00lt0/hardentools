@@ -51,7 +51,7 @@ List of tools for hardened operating system security
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
 - [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
-- [Encrypted SWAP](https://wiki.archlinux.org/title/Dm-crypt/Swap_encryption)
+- [Encrypted SWAP](https://wiki.archlinux.org/title/Dm-crypt/Swap_encryption) or [ZRAM](https://wiki.archlinux.org/title/Swap#zram-generator)
 
 
 ## Resources:
