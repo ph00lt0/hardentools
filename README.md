@@ -15,7 +15,8 @@ List of tools for hardened operating system security
 - [HardenTools](https://github.com/securitywithoutborders/hardentools)
 - [privacy.sexy](https://privacy.sexy/)
 - [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
-- Bitlocker or better: VeraCrypt
+- Bitlocker
+- [Veracrypt](https://veracrypt.fr) volumns, does not use TPM!
 - [NetLimiter](https://www.netlimiter.com/)
 - [Local Security Policy](https://www.bleepingcomputer.com/tutorials/create-an-application-whitelist-policy-in-windows/)
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
