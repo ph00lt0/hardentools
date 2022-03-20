@@ -58,6 +58,7 @@ List of tools for hardened operating system security
 - Privacy Guides
 - Reddit privacy community
 - GrapheneOS communities
-- Sun Knudsen's privacy guides series
+- Privacy Guides series by Sun Knudsen
 - Github
 - Stack Exchange
+- The Privacy, Security, and OSINT Show by IntelTechniques
