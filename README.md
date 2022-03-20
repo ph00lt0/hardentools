@@ -49,3 +49,4 @@ List of tools for hardened operating system security
 - [OpenSnitch](https://github.com/evilsocket/opensnitch)
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
+- [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
