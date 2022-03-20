@@ -25,7 +25,6 @@ List of tools for hardened operating system security
 ## MacOS
 - [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
 - [KextViewr](https://objective-see.com/products/kextviewr.html)
-- [LockDown](https://objective-see.com/products/lockdown.html)
 - [OverSight](https://objective-see.com/products/oversight.html) or [MicroSnitch](https://www.obdev.at/products/microsnitch/index.html)
 - [RansomWhere?](https://objective-see.com/products/ransomwhere.html)
 - [BlockBlock](https://objective-see.com/products/blockblock.html)
