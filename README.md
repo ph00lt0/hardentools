@@ -41,6 +41,7 @@ List of tools for hardened operating system security
 - [Spoof mac address](https://github.com/sunknudsen/privacy-guides/blob/master/how-to-spoof-mac-address-and-hostname-automatically-at-boot-on-macos/README.md)
 - [Bluesnooze](https://github.com/odlp/bluesnooze/)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
+- [MacOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 
 
 ## GNU/LINUX
