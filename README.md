@@ -23,7 +23,7 @@ List of tools for hardened operating system security
   - [Deploy WDAC using Group Policy](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deploy-windows-defender-application-control-policies-using-group-policy) for individuals
   - [Deploy WDAC using script](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deployment/deploy-wdac-policies-with-script)
   - [Deploy WDAC using MDM](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deploy-windows-defender-application-control-policies-using-intune) for businesses
-  - [Deploy WCAC using MEMCM](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deployment/deploy-wdac-policies-with-memcm) for businesses
+  - [Deploy WDAC using MEMCM](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deployment/deploy-wdac-policies-with-memcm) for businesses
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
 
