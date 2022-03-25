@@ -48,6 +48,14 @@ List of tools for hardened operating system security
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
 - [MacOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 
+### Intel-based Mac
+- Enable [Firmware password protection](https://support.apple.com/guide/security/firmware-password-protection-sec28382c9ca/web)
+  - Generate a strong password and store it securely. 
+  - Run `firmwarepasswd -setpasswd`
+  - Run `firmwarepasswd -verify` to make sure you have configured your password right.
+  - Run `firmwarepasswd -setmode full` to request password on each boot. `firmwarepasswd -setmode command` for change of boot disk. Do not use `-allow-oroms` unless you really have too. You can always enable this later.
+  - Also make sure to run `firmwarepasswd -disable-reset-capability` to disable Apple's ability to reset your device. Nobody will be able to help you if you lose your firmware password!
+
 
 ## GNU/LINUX
 - [Lynsis](https://cisofy.com/lynis/)
