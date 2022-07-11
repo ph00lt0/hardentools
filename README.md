@@ -59,6 +59,7 @@ Tools:
 - [Bluesnooze](https://github.com/odlp/bluesnooze/)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
 - [MacOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+- [Enable Lockdown Mode](https://images.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
 
 ### Intel-based Mac
 - Enable [Firmware password protection](https://support.apple.com/guide/security/firmware-password-protection-sec28382c9ca/web)
@@ -67,6 +68,10 @@ Tools:
   - Run `firmwarepasswd -verify` to make sure you have configured your password right.
   - Run `firmwarepasswd -setmode full` to request password on each boot. `firmwarepasswd -setmode command` for change of boot disk. Do not use `-allow-oroms` unless you really have too. You can always enable this later.
   - Also make sure to run `firmwarepasswd -disable-reset-capability` to disable Apple's ability to reset your device. Nobody will be able to help you if you lose your firmware password!
+
+
+## iOS
+- [Enable Lockdown Mode](https://images.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
 
 
 ## GNU/LINUX
