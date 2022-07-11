@@ -72,6 +72,7 @@ Tools:
 
 ## iOS
 - [Enable Lockdown Mode](https://images.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
+- [Use Adguard in Safari](https://apps.apple.com/us/app/adguard-adblock-privacy/id1047223162) no other browsers
 
 
 ## GNU/LINUX
