@@ -12,18 +12,28 @@ List of tools for hardened operating system security
 
 
 ## Windows
+Configurators:
 - [HardenTools](https://github.com/securitywithoutborders/hardentools)
 - [privacy.sexy](https://privacy.sexy/)
+- [Hard_Configurator](https://github.com/AndyFul/Hard_Configurator)
 - [WindowsSpyBlocker](https://crazymax.dev/WindowsSpyBlocker/)
-- Bitlocker
+
+Induvidual settings:
+- [Bitlocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-device-encryption-overview-windows-10)
+- [Local Security Policy (application whitelisting)](https://www.bleepingcomputer.com/tutorials/create-an-application-whitelist-policy-in-windows/)
+- [Endpoint Device Control Device (external device whitelisting)](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/mde-device-control-device-installation?view=o365-worldwide)
+- [Microsoft Defender Application Guard](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard#install-application-guard)
+- [Turn on network protection](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-network-protection?view=o365-worldwide#powershell)
+- [Enable virtualization-based protection of code integrity](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-guard/enable-virtualization-based-protection-of-code-integrity#how-to-turn-on-hvci-in-windows-10)
+- [Set up and use Microsoft Defender SmartScreen](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-smartscreen/microsoft-defender-smartscreen-set-individual-device)
+- [Enable attack surface reduction rules](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-attack-surface-reduction?view=o365-worldwide#powershell)
+- [Enable firmware protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-system-guard/system-guard-secure-launch-and-smm-protection#windows-security-app)
+- [Enable blocking of Potentionally Unwanted Applications](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/detect-block-potentially-unwanted-apps-microsoft-defender-antivirus?view=o365-worldwide#use-powershell-cmdlets-to-configure-pua-protection)
+- [Use Windows Sandbox for untrusted applications](https://techcommunity.microsoft.com/t5/windows-kernel-internals-blog/windows-sandbox/ba-p/301849)
+
+Tools:
+- Use build-in Microsoft Defender, do not use any other AV
 - [Veracrypt](https://veracrypt.fr) volumns, does not use TPM!
-- [NetLimiter](https://www.netlimiter.com/)
-- [Local Security Policy](https://www.bleepingcomputer.com/tutorials/create-an-application-whitelist-policy-in-windows/)
-- [Windows Defender Application Control management](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/)
-  - [Deploy WDAC using Group Policy](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deploy-windows-defender-application-control-policies-using-group-policy) for individuals
-  - [Deploy WDAC using script](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deployment/deploy-wdac-policies-with-script)
-  - [Deploy WDAC using MDM](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deploy-windows-defender-application-control-policies-using-intune) for businesses
-  - [Deploy WDAC using MEMCM](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/deployment/deploy-wdac-policies-with-memcm) for businesses
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
 
@@ -75,3 +85,4 @@ List of tools for hardened operating system security
 - Github
 - Stack Exchange
 - The Privacy, Security, and OSINT Show by IntelTechniques
+- Windows11_Hardening by beerisgood
