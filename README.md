@@ -6,7 +6,7 @@ List of tools for hardened operating system security
 - [GrapheneOS](https://grapheneos.org/) or [DivestOS](https://divestos.org/) for non Pixel phones
 - [TrackerControl](https://trackercontrol.org/) (if not using VPN, VPN is preferred)
 - [Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-- [Bromite](https://www.bromite.org/)
+- [Brave](https://brave.com/)
 - [Secure PDF viewer](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
 - [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
 
@@ -35,6 +35,7 @@ Tools:
 - Use build-in Microsoft Defender, do not use any other AV
 - [Veracrypt](https://veracrypt.fr) volumns, does not use TPM!
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
+- [Brave](https://brave.com/)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
 
 
@@ -53,6 +54,7 @@ Tools:
 - [Lynsis](https://cisofy.com/lynis/)
 - [Santa](https://santa.dev)
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
+- [Brave](https://brave.com/)
 - [Spoof mac address](https://github.com/sunknudsen/privacy-guides/blob/master/how-to-spoof-mac-address-and-hostname-automatically-at-boot-on-macos/README.md)
 - [Bluesnooze](https://github.com/odlp/bluesnooze/)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
@@ -72,6 +74,7 @@ Tools:
 - LUKS
 - [OpenSnitch](https://github.com/evilsocket/opensnitch)
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
+- [Brave](https://brave.com/)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
 - [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 - [Encrypted SWAP](https://wiki.archlinux.org/title/Dm-crypt/Swap_encryption) or [ZRAM](https://wiki.archlinux.org/title/Swap#zram-generator)
