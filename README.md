@@ -9,6 +9,9 @@ List of tools for hardened operating system security
 - [Brave](https://brave.com/)
 - [Secure PDF viewer](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
 - [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
+- [Duress](https://github.com/x13a/Duress)
+- [Sentry](https://github.com/x13a/Sentry)
+- [Wasted](https://github.com/x13a/Wasted)
 
 
 ## Windows
