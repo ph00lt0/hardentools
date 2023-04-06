@@ -5,7 +5,6 @@ List of tools for hardened operating system security
 ## Android
 - [GrapheneOS](https://grapheneos.org/) or [DivestOS](https://divestos.org/) for non Pixel phones
 - [TrackerControl](https://trackercontrol.org/) (if not using VPN, VPN is preferred)
-- [Mull Browser](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - [Brave](https://brave.com/)
 - [Secure PDF viewer](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
 - [Secure Camera](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
