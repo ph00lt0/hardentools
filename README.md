@@ -39,6 +39,7 @@ Tools:
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 - [Brave](https://brave.com/)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
+- [Safing Portmaster](https://safing.io/download/) Local firewall
 
 
 ## MacOS
@@ -82,7 +83,7 @@ Tools:
 ## GNU/LINUX
 - [Lynsis](https://cisofy.com/lynis/)
 - LUKS
-- [OpenSnitch](https://github.com/evilsocket/opensnitch)
+- [OpenSnitch](https://github.com/evilsocket/opensnitch) or - [Safing Portmaster](https://safing.io/download/) Local firewall
 - Firefox with [arkenfox's user.js](https://github.com/arkenfox/user.js)
 - [Brave](https://brave.com/)
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
