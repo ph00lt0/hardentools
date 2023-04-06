@@ -63,6 +63,8 @@ Tools:
 - Convert to safe(r) PDFs with [Dangerzone](https://dangerzone.rocks/)
 - [MacOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 - [Enable Lockdown Mode](https://images.apple.com/uk/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/)
+- [Secretive](https://github.com/maxgoedjen/secretive) SSH-Keymanager
+- [SAP Privileges](https://github.com/SAP/macOS-enterprise-privileges) On the fly request admin permissions and keep them disabled during normal usage. 
 
 ### Intel-based Mac
 - Enable [Firmware password protection](https://support.apple.com/guide/security/firmware-password-protection-sec28382c9ca/web)
